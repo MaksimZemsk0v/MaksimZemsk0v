@@ -17,4 +17,4 @@
 
 ## Учебные проекты:
 
-(https://github.com/MaksimZemsk0v/Yandex_Practicum/blob/ccd683ea2fc3ae606588eba335cc9388aeb0f8c2/README.md)
+https://github.com/MaksimZemsk0v/Yandex_Practicum/blob/ccd683ea2fc3ae606588eba335cc9388aeb0f8c2/README.md
