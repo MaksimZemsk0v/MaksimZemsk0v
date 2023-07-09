@@ -14,3 +14,5 @@
 ## Сертификаты:
 
 - Специалист по Data Science [RU](https://github.com/MaksimZemsk0v/MaksimZemsk0v/blob/7bdbafe07c3dce10a56d450667311486dd68923d/%D0%97%D0%B5%D0%BC%D1%81%D0%BA%D0%BE%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC.pdf)/[EN](https://github.com/MaksimZemsk0v/MaksimZemsk0v/blob/3724734614c595b4214606b8f2f07d3788f208a8/Zemskov%20Maksim.pdf)
+
+## Учебные проекты:
