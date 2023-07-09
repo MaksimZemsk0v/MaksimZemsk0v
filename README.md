@@ -13,4 +13,4 @@
 
 ## Сертификаты:
 
-- [Яндекс.Практикум: Специалист по Data Science ]()
+- Яндекс.Практикум: Специалист по Data Science (https://github.com/MaksimZemsk0v/MaksimZemsk0v/blob/3724734614c595b4214606b8f2f07d3788f208a8/Zemskov%20Maksim.pdf)
