@@ -9,7 +9,7 @@
 
 ## Резюме:
 
-- [Ссылка на hh] (https://meleuz.hh.ru/resume/ead017b4ff0bffe8460039ed1f78396b787771)
+- Ссылка на hh (https://meleuz.hh.ru/resume/ead017b4ff0bffe8460039ed1f78396b787771)
 
 ## Сертификаты:
 
