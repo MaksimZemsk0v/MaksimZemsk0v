@@ -1,8 +1,21 @@
-# Welcome to my profile!
+# Добро пожаловать в мой профиль!
 
-- My name is Maxim, I am 29 years old, I am a novice specialist in the field of data analysis and data science.
+- Меня зовут Максим, мне 29 лет, я начинающий специалист в области анализа данных и data science.
 
-- While studying at the university, I got acquainted with programming to solve the problem of optimizing the technological process. After that, I became interested in this area and learned about data analysis and machine learning. From the relevant work experience at the moment, there is experience only in training projects where data analysis methods were used, working with libraries for data analysis and visualization, sampling metrics, building and choosing the best model.
-- I am familiar with classical machine learning algorithms, as well as more complex algorithms such as XGBoost, CatBoost and LightGBM.
-- I am interested in time series, as well as machine learning applicable in industry.
-- I am actively looking for a job and want to develop further in this field, so I am open to various offers in the field of data science.
+- Во время учебы в университете я познакомился с программированием для решения задачи оптимизации технологического процесса. После этого я заинтересовался этой областью и узнал об анализе данных и машинном обучении. Из
+соответствующий опыт работы на данный момент есть опыт только в обучающих проектах, где использовались методы анализа данных, работа с библиотеками для анализа и визуализации данных, выборка метрик, построение и выбор наилучшей модели.
+- Знаком с классическими алгоритмами машинного обучения, а также с более сложными алгоритмами, такими как: XGBoost, Can Boost и LightGBM.
+- Меня интересуют временные ряды, а также машинное обучение, применимое в промышленности.
+- Сейчас нахожусь в поиске работы, поэтому открыт для различных предложений в области науки о данных.
+
+## Резюме:
+
+- [Ссылка на hh] (https://meleuz.hh.ru/resume/ead017b4ff0bffe8460039ed1f78396b787771)
+
+## Сертификаты:
+
+- [Яндекс.Практикум: Специалист по Data Science]
+
+## Учебные проекты:
+
+-  [Yandex_Practicum]
